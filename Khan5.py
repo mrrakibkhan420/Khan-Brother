@@ -11157,29 +11157,29 @@ def login():
 	print logo11
 	print "\033[1;95m«-----------------\033[1;91mDisclaimer\033[1;95m---------------»"
         time.sleep(0.05)
-        \033[1;91m\033[1;41m\033[1;97m  Tool is ONLY for Educational Purpose  \033[;0m\033[1;91m\033[1;92m
+        print "\033[1;45m\033[1;37mTool is ONLY for Educational Purpose        \033[1;0m"
         time.sleep(0.05)
         print "\033[1;45m\033[1;37mThis presentation is for Freaking The shit off        \033[1;0m"
         time.sleep(0.05)
-        print "\033[1;45m\033[1;37mpurposes ONLY.How you use this information    \033[1;0m"
+        print "\033[1;45m\033[1;37mpurposes ONLY.How you use this information      \033[1;0m"
         time.sleep(0.05)
-        print "\033[1;45m\033[1;37mis your responsibility.I will  be  100%       \033[1;0m"
+        print "\033[1;45m\033[1;37mis your responsibility.I will  be  100%         \033[1;0m"
         time.sleep(0.05)
         print "\033[1;45m\033[1;37mheld accountable. This Tool/Channel Doesn't    \033[1;0m"
         time.sleep(0.05)
-        print "\033[1;45m\033[1;37mSupport illegal activities.For any illegal    \033[1;0m"
+        print "\033[1;45m\033[1;37mSupport illegal activities.For any illegal     \033[1;0m"
         time.sleep(0.05)
-        print "\033[1;45m\033[1;37mActivities Contact me Via WhatsApp 01738813664.\033[1;0m"
+        print "\033[1;45m\033[1;37mActivities Contact me Via WhatsApp 01738813664\033[1;0m"
         time.sleep(0.05)
         ip = requests.get("https://api.ipify.org").text
         jalan("   \033[97;1m[\033[92;1m+\033[97;1m] \033[93;1mIP ADDRES \033[38;5;196m: \033[1;32m"+ip)
         print("\033[38;5;46m•\033[38;5;196m•\033[1;35m•\033[1;34m•\033[1;33m•\033[1;32m•\033[1;97m•\033[38;5;196m•\033[38;5;46m•\033[1;35m•\033[1;34m•\033[1;33m•\033[1;32m•\033[1;97m•\033[38;5;196m•\033[38;5;46m•\033[1;32m•\033[1;35m•\033[1;34m•\033[1;97m•\033[1;33m•\033[38;5;196m•\033[1;35m•\033[1;34m•\033[1;33m•\033[1;32m•\033[1;97m•\033[38;5;196m•\033[38;5;46m•\033[38;5;196m•\033[1;32m•\033[1;97m•\033[1;35m•\033[1;34m•\033[1;33m•\033[38;5;46m•\033[1;97m•")
         time.sleep(0.05)
-        print "\033[38;5;194m[\033[38;5;45m1\033[38;5;195m]\033[1;95m Fast Cloning Without Fb ID\033[1;92m[New Update]"
+        print "\033[38;5;194m[\033[38;5;45m1\033[38;5;194m]\033[1;95m Fast Cloning Without Fb ID\033[1;92m[New Update]"
         time.sleep(0.05)
-        print "\033[38;5;194m[\033[38;5;45m2\033[38;5;195m]\033[1;95m KHAN BROTHER TEAM  "
+        print "\033[38;5;194m[\033[38;5;45m2\033[38;5;194m]\033[1;95m KHAN BROTHER TEAM  "
         time.sleep(0.05) 
-        print "\033[38;5;194m[\033[38;5;45m3\033[38;5;195m]\033[1;95m KHAN H4K3R  Youtube Channel   "
+        print "\033[38;5;194m[\033[38;5;45m3\033[38;5;194m]\033[1;95m KHAN H4K3R  Youtube Channel   "
         time.sleep(0.05)
 	print "\033[38;5;194m[\033[38;5;45m0\033[38;5;195m]\033[1;91m Exit             "
 	pilih_login()

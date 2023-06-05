@@ -11157,19 +11157,19 @@ def login():
 	print logo11
 	print "\033[1;95m«-----------------\033[1;91mDisclaimer\033[1;95m---------------»"
         time.sleep(0.05)
-        print "\033[1;43m       \033[1;34mThis Tool is ONLY for Educational Purpose   \033[1;0m"
+        print "\033[1;43m       \033[1;37mThis Tool is ONLY for Educational Purpose   \033[1;0m"
         time.sleep(0.05)
-        print "\033[1;45m\033[1;34mThis presentation is for Freaking The shit off        \033[1;0m"
+        print "\033[1;45m\033[1;37mThis presentation is for Freaking The shit off        \033[1;0m"
         time.sleep(0.05)
-        print "\033[1;45m\033[1;34mpurposes ONLY.How you use this information    \033[1;0m"
+        print "\033[1;45m\033[1;37mpurposes ONLY.How you use this information    \033[1;0m"
         time.sleep(0.05)
-        print "\033[1;45m\033[1;34mis your responsibility.I will  be  100%       \033[1;0m"
+        print "\033[1;45m\033[1;37mis your responsibility.I will  be  100%       \033[1;0m"
         time.sleep(0.05)
-        print "\033[1;45m\033[1;34mheld accountable. This Tool/Channel Doesn't    \033[1;0m"
+        print "\033[1;45m\033[1;37mheld accountable. This Tool/Channel Doesn't    \033[1;0m"
         time.sleep(0.05)
-        print "\033[1;45m\033[1;34mSupport illegal activities.For any illegal    \033[1;0m"
+        print "\033[1;45m\033[1;37mSupport illegal activities.For any illegal    \033[1;0m"
         time.sleep(0.05)
-        print "\033[1;45m\033[1;34mActivities Contact me Via WhatsApp 01981442821.\033[1;0m"
+        print "\033[1;45m\033[1;37mActivities Contact me Via WhatsApp 01738813664.\033[1;0m"
         time.sleep(0.05)
         ip = requests.get("https://api.ipify.org").text
         jalan("   \033[97;1m[\033[92;1m+\033[97;1m] \033[93;1mIP ADDRES \033[38;5;196m: \033[1;32m"+ip)

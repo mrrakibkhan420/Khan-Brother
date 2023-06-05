@@ -11157,7 +11157,7 @@ def login():
 	print logo11
 	print "\033[1;95m«-----------------\033[1;91mDisclaimer\033[1;95m---------------»"
         time.sleep(0.05)
-        print "\033[1;43m       \033[1;37mThis Tool is ONLY for Educational Purpose   \033[1;0m"
+        \033[1;91m\033[1;41m\033[1;97m  Tool is ONLY for Educational Purpose  \033[;0m\033[1;91m\033[1;92m
         time.sleep(0.05)
         print "\033[1;45m\033[1;37mThis presentation is for Freaking The shit off        \033[1;0m"
         time.sleep(0.05)
@@ -11301,19 +11301,19 @@ def menu():
         time.sleep(0.05)
 	print "\033[1;95m«~~~~~~~~~~~~~~~~~\033[1;91m¶Disclaimer¶\033[1;95m~~~~~~~~~~~~~~~~~»"
         time.sleep(0.05)
-        print "\033[1;43m       \033[1;34mThis Tool is for Educational Purpose   \033[1;0m"
+        print "\033[1;34mThis Tool is for Educational Purpose   \033[1;0m"
         time.sleep(0.05)
-        print "\033[1;45m\033[1;34mThis presentation is not for educational          \033[1;0m"
+        print "\033[1;34mThis presentation is not for educational          "
         time.sleep(0.05)
         print "\033[1;45m\033[1;34mpurposes ONLY.How you use this information    \033[1;0m"
         time.sleep(0.05)
-        print "\033[1;45m\033[1;34mis your responsibility.I will be  100%         \033[1;0m"
+        print "\033[1;34mis your responsibility.I will be  100%         \033[1;0m"
         time.sleep(0.05)
-        print "\033[1;45m\033[1;34mheld accountable. This Tool/Channel Doesn't    \033[1;0m"
+        print "\033[1;34mheld accountable. This Tool/Channel Doesn't    \033[1;0m"
         time.sleep(0.05)
-        print "\033[1;45m\033[1;34mSupport illegal activities. For any illegal    \033[1;0m"
+        print "\033[1;34mSupport illegal activities. For any illegal    \033[1;0m"
         time.sleep(0.05)
-        print "\033[1;45m\033[1;34mActivitie Contact me Via WhatsApp \033[1;0m"
+        print "\033[1;34mActivitie Contact me Via WhatsApp \033[1;0m"
         time.sleep(0.05)
         print "\033[1;97m✮❂❂❂❂❂❂❂❂❂❂❂❂✮\033[1;91mWhite-Tiger-Komail\033[1;97m✮❂❂❂❂❂❂❂❂❂❂❂❂✮"
         time.sleep(0.05)
